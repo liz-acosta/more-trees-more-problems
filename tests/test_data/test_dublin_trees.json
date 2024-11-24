@@ -1,0 +1,128 @@
+{
+    "short": {
+        "drive": {
+            "abbey": {
+                "abbey drive": 0
+            },
+            "coolrua": {
+                "coolrua drive": 10
+            },
+            "coultry": {
+                "coultry drive": 5
+            },
+            "drumcliffe": {
+                "drumcliffe drive": 0
+            },
+            "park": {
+                "grove": {
+                    "grove park drive": 10
+                }
+            }
+        },
+        "gardens": {
+            "park": {
+                "belton": {
+                    "belton park gardens": 10
+                },
+                "grace": {
+                    "grace park gardens": 10
+                },
+                "villa": {
+                    "villa park gardens": 5
+                }
+            },
+            "lein": {
+                "lein gardens": 10
+            }
+        },
+        "terrace": {
+            "clarkes": {
+                "clarkes terrace": 10
+            },
+            "goldenbridge": {
+                "goldenbridge terrace": 10
+            },
+            "granite": {
+                "granite terrace": 10
+            },
+            "greenville": {
+                "greenville terrace": 10
+            },
+            "michaels": {
+                "st": {
+                    "st michaels terrace": 10
+                }
+            }
+        },
+        "heath": {
+            "kempton": {
+                "kempton heath": 10
+            }
+        },
+        "view": {
+            "kempton": {
+                "kempton view": 10
+            },
+            "park": {
+                "park view": 10
+            }
+        }
+    },
+    "tall": {
+        "road": {
+            "adelaide": {
+                "adelaide road": 25
+            },
+            "beaumont": {
+                "beaumont road": 20
+            },
+            "cabra": {
+                "cabra road": 25
+            },
+            "cambridge": {
+                "cambridge road": 20
+            },
+            "carnlough": {
+                "carnlough road": 20
+            },
+            "circular": {
+                "north": {
+                    "north circular road": 0
+                },
+                "south": {
+                    "south circular road": 20
+                }
+            },
+            "orchard": {
+                "orchard road": 25
+            }
+        },
+        "park": {
+            "bushy": {
+                "bushy park": 0
+            },
+            "holyrood": {
+                "holyrood park": 20
+            },
+            "square": {
+                "merrion": {
+                    "merrion square park": 20
+                }
+            },
+            "orwell": {
+                "orwell park": 20
+            },
+            "palmerston": {
+                "palmerston park": 25
+            },
+            "patricks": {
+                "st": {
+                    "st patricks park": 20
+                }
+            }
+        },
+        "charlemont": {
+            "charlemont": 20
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "short": [
+        "coolrua drive",
+        "coultry drive",
+        "grove park drive",
+        "belton park gardens",
+        "grace park gardens",
+        "villa park gardens",
+        "lein gardens",
+        "clarkes terrace",
+        "goldenbridge terrace",
+        "granite terrace",
+        "greenville terrace",
+        "st michaels terrace",
+        "kempton heath",
+        "kempton view",
+        "park view"
+
+    ],
+    "tall": [
+        "adelaide road",
+        "beaumont road",
+        "cabra road",
+        "cambridge road",
+        "carnlough road",
+        "south circular road",
+        "orchard road",
+        "holyrood park",
+        "merrion square park",
+        "orwell park",
+        "palmerston park",
+        "st patricks park",
+        "charlemont" 
+    ]
+}
